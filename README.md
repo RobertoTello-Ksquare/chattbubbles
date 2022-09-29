@@ -1,4 +1,4 @@
 # chattbubbles
 
-![image](https://user-images.githubusercontent.com/113385912/193014984-01085d9e-1ccf-4e61-a482-2e71c28625d6.png)
+![image](https://user-images.githubusercontent.com/113385912/193122011-6b1d6d1a-32c9-4500-83a6-45ffc0d0830e.png)
 
